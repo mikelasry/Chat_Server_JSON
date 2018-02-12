@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Lesson51_Http_POST_WITH_JSON:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lesson51_Http_POST_WITH_JSON_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Lesson51_Http_POST_WITH_JSON/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Lesson51_Http_POST_WITH_JSON" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$USER_HOME$/AppData/Local/Temp/Rar$DI99.472/java-json.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
